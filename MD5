@@ -1,0 +1,12 @@
+db07d750e6e1d93510860428a354948a *DESCRIPTION
+3a49f499807191cbe3d09c29ead89116 *NAMESPACE
+7892f36c4794eb3e9e62ff641312c12d *R/EMbssn.R
+ef0a7a45434a6dec1a64cc0db2934ec9 *R/algEMbssn.R
+2d4757c7bcdad5e8e4ad78552dc3c05d *R/functions.R
+c9e0ba0bfad5ceb5d53426f276463b8f *data/ozone.txt.gz
+ae74bc3655d12599d2f728053f1fb847 *man/EMbssn.Rd
+6a7d21c715aafc6a8d9163a33940f231 *man/bssn-package.Rd
+cee72718a09eaf6a2f9ec15beb482059 *man/bssn.Rd
+36ef29242027c78a065e6f30c3401405 *man/momentsbssn.Rd
+961b48179706996b7cb120a26ccf94d2 *man/ozone.Rd
+d4a58ecba684f9bebe5a2e723a1f624c *man/reliabilitybssn.Rd

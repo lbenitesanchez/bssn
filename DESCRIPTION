@@ -1,0 +1,17 @@
+Package: bssn
+Type: Package
+Title: Birnbaum-Saunders Model Based on Skew-Normal Distribution
+Version: 0.7
+Date: 2016-03-16
+Author: Rocio Paola Maehara <rmaeharaa@gmail.com> and Luis Benites Sanchez <lbenitesanchez@gmail.com>
+Maintainer: Rocio Paola Maehara <rmaeharaa@gmail.com>
+Imports: sn
+Description: It provides the density, distribution function, quantile function, random number generator, reliability function, failure rate, likelihood function,
+             moments and EM algorithm for Maximum Likelihood estimators, also empirical quantile and generated envelope for a given sample, all this for the three parameter
+             Birnbaum-Saunders model based on Skew-Normal Distribution.
+             Additionally, it provides the random number generator for the mixture of Birnbaum-Saunders model based on Skew-Normal distribution.
+License: GPL (>= 2)
+Repository: CRAN
+NeedsCompilation: no
+Packaged: 2016-03-17 21:12:38 UTC; rmaehara
+Date/Publication: 2016-03-17 23:19:57
