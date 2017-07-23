@@ -8,8 +8,8 @@
 
 **Published:** 	2016-03-17
 
-**Author:** 	Rocio Paola Maehara and Luis Benites Sanchez
+**Author:** 	Rocio Paola Maehara(@rmaeharaa) and Luis Benites Sanchez(@lbenitesanchez)
 
-**Maintainer:** 	Rocio Paola Maehara <rmaeharaa at gmail.com>
+**Maintainer:** 	Rocio Paola Maehara(@rmaeharaa) <rmaeharaa at gmail.com>
 
 **License:** 	GPL-2 | GPL-3 [expanded from: GPL (≥ 2)]
